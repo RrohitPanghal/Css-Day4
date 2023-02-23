@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+.red{
+    background-color: red;
+    color: aliceblue;
+}
+.green{
+    background-color: green;
+    color: aliceblue
+    ;
+}
+.container{
+    height: 500px;
+    width: 800px;
+    border: 2px solid red;
+   /*  background-color: rgb(115, 31, 193);
+    color: aliceblue;
+    background-image: url("kyllie.jpg"); background-repeat: no-repeat;
+    background-position: center top; */
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-attachment: fixed; 
+    background-image: url("kyllie.jpg");
+}
+/* background: red url("kyllie.jpg") no-repeat scroll right;
+ */
